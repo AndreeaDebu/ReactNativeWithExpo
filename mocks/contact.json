@@ -1,0 +1,23 @@
+{
+  "name": "Andreea Debu",
+  "username": "Leola_VonRueden",
+  "address": {
+    "city": "Bucharest",
+    "country": "Romania"
+  },
+  "bio":
+    "SQL Server Developer",
+  "avatar": "https://image.shutterstock.com/z/stock-vector-geek-girl-face-avatar-student-web-programmer-developer-young-woman-in-glasses-with-red-hair-1496367584.jpg",
+  "avatarBackground":
+    "https://www.pixelstalk.net/wp-content/uploads/images2/Cool_Snowy_Mountains_Wallpaper.jpg",
+  "avatarBackground2":
+    "https://images.squarespace-cdn.com/content/v1/57e42a462994ca21e2bd6c40/1523333221471-CV562ZQ560AQ437N3NSU/TED_Bulb_2.gif?format=1000w",
+  "tels": [
+    { "id": 1, "name": "Mobile", "number": "0789556242" },
+    { "id": 2, "name": "Work", "number": "0789425555" }
+  ],
+  "emails": [
+    { "id": 1, "name": "Personal", "email": "andreea_debu@yahoo.com" },
+    { "id": 2, "name": "Work", "email": "andreea.debu@s.unibuc.ro" }
+  ]
+}
